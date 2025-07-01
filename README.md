@@ -12,5 +12,6 @@
 
 ## Skills and Tecnologies
 
-I'm working with SQL and I love it, is very simple but incredible powerfull, so yes, I'm SQLForever. In my personal study and my years in job, I had use a Java, Javascript, Python and all enviroment of Microsoft Azure as Aure Data Factory, Azure Databricks, Azure Deltalake and more. 
+I work with SQL and I love it. It's very simple yet incredibly powerful, so yes, I'm SQLForever. In my studies and at work, I've used Java, Javascript, Python, and all Microsoft Azure environments, including Azure Data Factory, Azure Databricks, Azure Deltalake, and more.
+
 
