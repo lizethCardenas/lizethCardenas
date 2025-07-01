@@ -5,10 +5,10 @@
 ## About Me
 
 - :computer: Major: System Enginner
-- :city: Location: Bogotá - Colombia
-- :job: Current Job: Data Engineer Azure
-- :learned: Current learning: English
-- :happy: Fun Fact: I play guitar, bass, piano and drummer. 
+- :cityscape: Location: Bogotá - Colombia
+- :woman_technologist: Current Job: Data Engineer Azure
+- :united_nations: Current learning: English
+- :grinning: Fun Fact: I play guitar, bass, piano and drummer. 
 
 ## Skills and Tecnologies
 
